@@ -1,0 +1,1 @@
+sudo apt-get install usb-modeswitch usb-modeswitch-data bridge-utils ppp wvdial hostapd iw dnsmasq vnstat lighttpd php5-cgi phpsysinfo php-apc
